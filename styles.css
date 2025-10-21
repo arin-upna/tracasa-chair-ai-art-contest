@@ -43,8 +43,9 @@ header h1 {
 }
 
 main {
-    max-width: 1200px;
     margin: 0 auto;
+    margin-left: 50px;
+    margin-right: 50px;
     padding: 2rem;
 }
 
